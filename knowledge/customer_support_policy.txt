@@ -1,0 +1,11 @@
+Acme Retail Customer Support Policy
+
+Customers can contact support through email or the customer support portal.
+
+Standard support requests should receive an initial response within 24 hours.
+
+Urgent payment or account-access issues should be escalated to the support team immediately.
+
+Unresolved complaints may be escalated to a support manager.
+
+Support agents must record the issue, customer information, actions taken, and resolution status.

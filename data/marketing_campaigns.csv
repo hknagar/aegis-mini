@@ -1,0 +1,7 @@
+campaign_id,campaign_name,channel,campaign_date,spend,leads,conversions
+C001,New Year Sale,Google Ads,2026-01-05,12000,340,42
+C002,Winter Email Push,Email,2026-01-12,3000,180,31
+C003,Republic Day Sale,Meta Ads,2026-01-20,9000,290,38
+C004,February Launch,Google Ads,2026-02-05,15000,410,55
+C005,Valentine Campaign,Email,2026-02-10,4000,220,36
+C006,February Retargeting,Meta Ads,2026-02-18,8500,260,41
