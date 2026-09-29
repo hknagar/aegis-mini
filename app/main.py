@@ -36,7 +36,7 @@ knowledge_agent = KnowledgeAgent()
 action_agent = ActionAgent()
 
 app = FastAPI(title = "Aegis Mini API")
-initialize_knowledge()
+# initialize_knowledge()
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
